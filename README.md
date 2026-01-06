@@ -57,7 +57,7 @@ All plots are stored in the `plots` folder.
 3. **Comparison of Female vs Male Students**  
    - Stacked bar chart comparing percentages of female and male students by group and prep course.  
    - File: `plots/comparison_sorted_female_male.png`  
-   ![Comparison](plots/comparison_sorted_female_male.png)  
+   ![Comparison]https://github.com/mozhdamohammadi58-lang/ml-student-dropout/blob/main/comparison_sorted_female_male.png
 
 **Colors:**  
 - Completed Prep: Green shades  
@@ -106,4 +106,5 @@ These insights can help in targeting interventions and understanding performance
 
 **Note:**  
 This project sets a strong foundation for predictive modeling (machine learning) on student performance in the next steps.
+
 
