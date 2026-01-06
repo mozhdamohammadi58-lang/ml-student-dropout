@@ -52,7 +52,7 @@ All plots are stored in the `plots` folder.
 2. **Male Students Distribution**  
    - Shows the percentage of male students in each group and prep course completion.  
    - File: `plots/male_grouped_distribution.png`  
-   ![Male Students](plots/male_grouped_distribution.png)  
+   ![Male Students] https://github.com/mozhdamohammadi58-lang/ml-student-dropout/blob/main/male_grouped_distribution.png 
 
 3. **Comparison of Female vs Male Students**  
    - Stacked bar chart comparing percentages of female and male students by group and prep course.  
@@ -106,3 +106,4 @@ These insights can help in targeting interventions and understanding performance
 
 **Note:**  
 This project sets a strong foundation for predictive modeling (machine learning) on student performance in the next steps.
+
